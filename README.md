@@ -20,7 +20,7 @@ Built for fun, transparency, and Web3 experiments.
  
 ---
 
-## 📦 Contract Info
+## 📦 Contract Info  
 
 - Language: `Solidity ^0.8.24`
 - No external dependencies
