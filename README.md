@@ -1,6 +1,6 @@
 # ⚽ Mini Football (Solidity)  
     
-A simple yet fun **1v1 on-chain mini football game** written in Solidity. Two players compete to score **3 goals first** by passing, dribbling, and shooting — all verifiable on the Ethereum blockchain.
+A simple yet fun **1v1 on-chain mini football game** written in Solidity. Two players compete to score **3 goals first** by passing, dribbling, and shooting — all verifiable on the Ethereum blockchain.  
 
 No tokens. No bets. Just pure strategy and randomness.  
 Built for fun, transparency, and Web3 experiments.
