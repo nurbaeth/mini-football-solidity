@@ -7,7 +7,7 @@ Built for fun, transparency, and Web3 experiments.
   
 ---
     
-## 🎮 Gameplay  
+## 🎮 Gameplay    
 
 - 🧍 Two players can join a match.
 - ⚽ Player 1 starts with the ball.  
