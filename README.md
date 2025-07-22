@@ -24,7 +24,7 @@ Built for fun, transparency, and Web3 experiments.
 
 - Language: `Solidity ^0.8.24` 
 - No external dependencies 
-- Gas-optimized for basic play 
+- Gas-optimized for basic play  
 - Tested on Remix / local Ethereum VM
 
 ---
