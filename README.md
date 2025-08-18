@@ -21,7 +21,7 @@ Built for fun, transparency, and Web3 experiments.
 ---   
 
 ## 📦 Contract Info    
-
+  
 - Language: `Solidity ^0.8.24` 
 - No external dependencies 
 - Gas-optimized for basic play  
