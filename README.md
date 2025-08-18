@@ -15,7 +15,7 @@ Built for fun, transparency, and Web3 experiments.
 - 🛠️ Actions per turn:     
   - `passBall()` – Pass the ball to your opponent.
   - `dribble()` – Maintain ball possession.     
-  - `shoot()` – Try to score! (50% chance)  
+  - `shoot()` – Try to score! (50% chance)    
 - 🎯 First to **3 goals** wins the match. 
   
 --- 
