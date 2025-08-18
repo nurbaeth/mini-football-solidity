@@ -17,7 +17,7 @@ Built for fun, transparency, and Web3 experiments.
   - `dribble()` – Maintain ball possession.     
   - `shoot()` – Try to score! (50% chance)    
 - 🎯 First to **3 goals** wins the match.   
-      
+        
 ---     
 
 ## 📦 Contract Info    
