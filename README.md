@@ -12,7 +12,7 @@ Built for fun, transparency, and Web3 experiments.
 - 🧍 Two players can join a match.      
 - ⚽ Player 1 starts with the ball.        
 - 🔁 Turns alternate between players.        
-- 🛠️ Actions per turn:     
+- 🛠️ Actions per turn:      
   - `passBall()` – Pass the ball to your opponent.
   - `dribble()` – Maintain ball possession.     
   - `shoot()` – Try to score! (50% chance)    
