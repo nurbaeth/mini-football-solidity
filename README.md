@@ -4,7 +4,7 @@ A simple yet fun **1v1 on-chain mini football game** written in Solidity. Two pl
            
 No tokens. No bets. Just pure strategy and randomness.           
 Built for fun, transparency, and Web3 experiments.         
-       
+        
 ---  
        
 ## 🎮 Gameplay     
