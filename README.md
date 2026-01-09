@@ -6,7 +6,7 @@ No tokens. No bets. Just pure strategy and randomness.
 Built for fun, transparency, and Web3 experiments.           
           
 ---     
-         
+          
 ## 🎮 Gameplay      
     
 - 🧍 Two players can join a match.       
