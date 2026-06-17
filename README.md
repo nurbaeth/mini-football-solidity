@@ -13,7 +13,7 @@ Built for fun, transparency, and Web3 experiments.
 - ⚽ Player 1 starts with the ball.           
 - 🔁 Turns alternate between players.            
 - 🛠️ Actions per turn:        
-  - `passBall()` – Pass the ball to your opponent.  
+  - `passBall()` – Pass the ball to your opponent.   
   - `dribble()` – Maintain ball possession.       
   - `shoot()` – Try to score! (50% chance)    
 - 🎯 First to **3 goals** wins the match.    
